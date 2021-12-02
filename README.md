@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={fuki01}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuki01
 )](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Visitor Count](https://profile-counter.glitch.me/fuki01/count.svg)<br> -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fuki01)](https://github.com/fuki01/github-readme-stats)
