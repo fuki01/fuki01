@@ -49,10 +49,10 @@ jobs:
           plugin_topics_sort: stars    # Sort by most starred topics
           plugin_topics_mode: mastered # Display icons instead of labels
           plugin_topics_limit: 0       # Disable limitations
-      # - uses: avinal/Profile-Readme-WakaTime@master
-      #   with:
-      #     WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      #     GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-      # - uses: athul/waka-readme@master
-      #   with:
-      #     WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - uses: avinal/Profile-Readme-WakaTime@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
