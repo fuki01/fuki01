@@ -1,9 +1,3 @@
-# My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/fuki01/posts.svg)](http://qiita.com/fuki01)
-# My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/fuki01/contributions.svg)](http://qiita.com/fuki01)
-# My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/fuki01/followers.svg)](http://qiita.com/fuki01)
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/fuki01/count.svg)<br> -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fuki01)](https://github.com/fuki01/github-readme-stats)
